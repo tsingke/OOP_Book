@@ -1,6 +1,10 @@
 # 面向对象程序设计--教材案例源码
 
+![image](https://github.com/tsingke/OOP_Codes/blob/master/chapt_1_demo/oop.jpg)
+
 下载源码到本地: 克隆`git clone`方式下载,或者直接点击右上角`download zIP`下载
+
+
 
 ```
 
