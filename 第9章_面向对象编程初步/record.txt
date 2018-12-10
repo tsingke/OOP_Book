@@ -1,0 +1,6 @@
+张强 B001 f 1991 4 16 computer - - 1
+李悦 B002 m 1992 9 12 network - - 1
+肖重 D001 f 1988 6 30 computer WSN - 2
+王燕 D002 m 1989 1 26 computer EC - 2
+童猛 T001 f 1965 4 3 - - pro 4
+许雷 T002 f 1982 5 23 network WSN lec 3
