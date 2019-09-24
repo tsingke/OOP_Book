@@ -4,9 +4,10 @@
 
 下载源码到本地: 
 
-* 克隆`git clone`方式下载, `$ git clone https://github.com/tsingke/OOP_Book.git`
+* 直接下载：[zip](https://github.com/tsingke/OOP_Book/archive/master.zip)
 
-* 直接点击右上角`download zIP`下载
+* 命令下载： `$ git clone https://github.com/tsingke/OOP_Book.git`
+
 
 
 
